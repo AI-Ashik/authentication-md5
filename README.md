@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
-#### This encryption method is also a very simple,
+#### This encryption method is also a very simple, in this (md5) hashing function method it just convert the password into a unredable password and it also used when logging in to a route.
+
+### but this method is not secure as it looks , cuz it always converts the passwor in to a same encrypted password. so hackers can use password table to decrypt it
 
 - [Update Node](#update-node)
   - [Windows](#windows)
